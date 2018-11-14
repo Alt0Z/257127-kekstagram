@@ -1,7 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Roman Shakhanov](https://up.htmlacademy.ru/javascript/16/user/257127).
-* Наставник: `Неизвестно`.
 
 ---
 
